@@ -12,6 +12,7 @@
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
     pkgs.ops
+    pkgs.qemu
   ];
 
   # Sets environment variables in the workspace
